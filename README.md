@@ -1,4 +1,5 @@
 
+<<<<<<< HEAD
 # 🎯 Drizz UI Testing Tool - Complete Project Documentation
 
 A comprehensive **React Single Page Application (SPA)** for mobile UI testing with interactive bounding box annotation, **PostgreSQL database persistence**, and **hash-based project management**. Built with modern web technologies following industry best practices.
@@ -505,3 +506,5 @@ The application tracks the following metrics:
 [7](https://railway.com/deploy/fastapi-react-mongodb-template)
 [8](https://www.reddit.com/r/FastAPI/comments/1dqhvtv/fastapi_react/)
 [9](https://equinor.github.io/template-fastapi-react/)
+=======
+>>>>>>> db65497d0d783cf96196ec265875e521e7a1dc0d
