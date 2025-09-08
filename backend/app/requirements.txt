@@ -1,0 +1,23 @@
+# Drizz UI Testing Tool - Backend Dependencies
+
+# Core FastAPI framework
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+
+# File upload handling (required for UploadFile)
+python-multipart==0.0.6
+
+# Image processing (PIL/Pillow)
+Pillow==10.0.1
+
+# Data validation (Pydantic - comes with FastAPI but good to specify)
+pydantic==2.4.2
+
+# Optional: File operations
+aiofiles==23.2.1
+
+# Optional: Environment variables
+python-dotenv==1.0.0
+
+# Optional: Production server
+gunicorn==21.2.0
